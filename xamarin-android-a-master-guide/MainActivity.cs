@@ -18,19 +18,19 @@ namespace xamarin_android_a_master_guide
             SetContentView(Resource.Layout.Main);
 
 
-            Button button = FindViewById<Button>(Resource.Id.myButton);
+            Button button1 = FindViewById<Button>(Resource.Id.myButton1);
 
-            button.Click += delegate
+            button1.Click += delegate
             {
                 if (!isBlue)
                 {
 
-                    button.SetBackgroundColor(Color.Blue);
+                    button1.SetBackgroundColor(Color.Blue);
                 }
                 else
                 {
 
-                    button.SetBackgroundColor(Color.Red);
+                    button1.SetBackgroundColor(Color.Red);
                 }
                 isBlue = !isBlue;
             };

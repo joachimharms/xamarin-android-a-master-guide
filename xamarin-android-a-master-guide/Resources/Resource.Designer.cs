@@ -45,7 +45,10 @@ namespace xamarin_android_a_master_guide
 		{
 			
 			// aapt resource value: 0x7f040000
-			public const int myButton = 2130968576;
+			public const int myButton1 = 2130968576;
+			
+			// aapt resource value: 0x7f040001
+			public const int myButton2 = 2130968577;
 			
 			static Id()
 			{
