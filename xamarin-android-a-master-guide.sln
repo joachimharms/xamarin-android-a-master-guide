@@ -9,6 +9,8 @@ Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "S03_LayoutsAndBasicUI", "S0
 EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "S03_LayoutsAndBasicUI_2RelativeLayout", "S03_LayoutsAndBasicUI_2RelativeLayout\S03_LayoutsAndBasicUI_2RelativeLayout.csproj", "{CF2A3354-454F-488B-B2CA-958A998A8D73}"
 EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "S03_LayoutsAndBasicUI_3TextViews", "S03_LayoutsAndBasicUI_3TextViews\S03_LayoutsAndBasicUI_3TextViews.csproj", "{EFD62D11-C047-4A8F-8226-D89C4F68756A}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|Any CPU = Debug|Any CPU
@@ -33,6 +35,12 @@ Global
 		{CF2A3354-454F-488B-B2CA-958A998A8D73}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{CF2A3354-454F-488B-B2CA-958A998A8D73}.Release|Any CPU.Build.0 = Release|Any CPU
 		{CF2A3354-454F-488B-B2CA-958A998A8D73}.Release|Any CPU.Deploy.0 = Release|Any CPU
+		{EFD62D11-C047-4A8F-8226-D89C4F68756A}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{EFD62D11-C047-4A8F-8226-D89C4F68756A}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{EFD62D11-C047-4A8F-8226-D89C4F68756A}.Debug|Any CPU.Deploy.0 = Debug|Any CPU
+		{EFD62D11-C047-4A8F-8226-D89C4F68756A}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{EFD62D11-C047-4A8F-8226-D89C4F68756A}.Release|Any CPU.Build.0 = Release|Any CPU
+		{EFD62D11-C047-4A8F-8226-D89C4F68756A}.Release|Any CPU.Deploy.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
