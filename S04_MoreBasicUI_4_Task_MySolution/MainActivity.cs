@@ -13,6 +13,27 @@ namespace S04_MoreBasicUI_4_Task_MySolution
 
             // Set our view from the "main" layout resource
             SetContentView(Resource.Layout.Main);
+
+            var toggleButton = FindViewById<ToggleButton>(Resource.Id.toggleButton1);
+            var radioGroup = FindViewById<RadioGroup>(Resource.Id.radioGroup1);
+            var radioButton1 = FindViewById<RadioButton>(Resource.Id.radioButton1);
+            var radioButton2 = FindViewById<RadioButton>(Resource.Id.radioButton2);
+            var spinner = FindViewById<Spinner>(Resource.Id.spinner1);
+
+            toggleButton.CheckedChange += delegate
+            {
+                if (toggleButton.Checked)
+                {
+                    radioGroup.Visibility = Android.Views.ViewStates.Invisible;
+                    spinner.Visibility = Android.Views.ViewStates.Invisible;
+
+                }
+                else
+                {
+                    radioGroup.Visibility = Android.Views.ViewStates.Visible;
+                    spinner.Visibility = Android.Views.ViewStates.Visible;
+                }
+            };
         }
     }
 }

@@ -17,12 +17,12 @@
             android:layout_width="wrap_content"
             android:layout_height="wrap_content"
             android:checked="true"
-            android:text="RadioButton"
-            android:id="@+id/radioButton1" />
+            android:id="@+id/radioButton1"
+            android:text="German" />
         <RadioButton
             android:layout_width="wrap_content"
             android:layout_height="wrap_content"
-            android:text="RadioButton"
+            android:text="French"
             android:id="@+id/radioButton2" />
     </RadioGroup>
     <Spinner
