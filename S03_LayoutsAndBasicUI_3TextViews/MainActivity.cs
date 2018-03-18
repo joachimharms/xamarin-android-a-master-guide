@@ -13,6 +13,16 @@ namespace S03_LayoutsAndBasicUI_3TextViews
 
             // Set our view from the "main" layout resource
             SetContentView(Resource.Layout.Main);
+
+            Button myButton = FindViewById<Button>(Resource.Id.myButton);
+            TextView textView1 = FindViewById<TextView>(Resource.Id.textView1);
+            EditText editText1 = FindViewById<EditText>(Resource.Id.editText1);
+
+            myButton.Click += delegate
+            {
+                textView1.Text = editText1.Text;
+                editText1.Text = string.Empty;
+            };
         }
     }
 }

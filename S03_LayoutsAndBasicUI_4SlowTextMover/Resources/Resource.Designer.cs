@@ -9,9 +9,9 @@
 // </auto-generated>
 //------------------------------------------------------------------------------
 
-[assembly: global::Android.Runtime.ResourceDesignerAttribute("S03_LayoutsAndBasicUI_3TextViews.Resource", IsApplication=true)]
+[assembly: global::Android.Runtime.ResourceDesignerAttribute("S03_LayoutsAndBasicUI_4SlowTextMover.Resource", IsApplication=true)]
 
-namespace S03_LayoutsAndBasicUI_3TextViews
+namespace S03_LayoutsAndBasicUI_4SlowTextMover
 {
 	
 	
@@ -44,14 +44,14 @@ namespace S03_LayoutsAndBasicUI_3TextViews
 		public partial class Id
 		{
 			
-			// aapt resource value: 0x7f040001
-			public const int editText1 = 2130968577;
+			// aapt resource value: 0x7f040002
+			public const int button1 = 2130968578;
 			
 			// aapt resource value: 0x7f040000
-			public const int myButton = 2130968576;
+			public const int editText1 = 2130968576;
 			
-			// aapt resource value: 0x7f040002
-			public const int textView1 = 2130968578;
+			// aapt resource value: 0x7f040001
+			public const int textView1 = 2130968577;
 			
 			static Id()
 			{
