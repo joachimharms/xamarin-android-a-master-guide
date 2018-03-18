@@ -11,7 +11,9 @@ Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "S03_LayoutsAndBasicUI_2Rela
 EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "S03_LayoutsAndBasicUI_3TextViews", "S03_LayoutsAndBasicUI_3TextViews\S03_LayoutsAndBasicUI_3TextViews.csproj", "{EFD62D11-C047-4A8F-8226-D89C4F68756A}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "S03_LayoutsAndBasicUI_4SlowTextMover", "S03_LayoutsAndBasicUI_4SlowTextMover\S03_LayoutsAndBasicUI_4SlowTextMover.csproj", "{7A8CCE76-D96C-4E38-A34A-F3F0DE5971D4}"
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "S03_LayoutsAndBasicUI_4SlowTextMover_Joachim", "S03_LayoutsAndBasicUI_4SlowTextMover\S03_LayoutsAndBasicUI_4SlowTextMover_Joachim.csproj", "{7A8CCE76-D96C-4E38-A34A-F3F0DE5971D4}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "S03_LayoutsAndBasicUI_5_SlowTextMover_Solution", "S03_LayoutsAndBasicUI_5_SlowTextMover_Solution\S03_LayoutsAndBasicUI_5_SlowTextMover_Solution.csproj", "{6F67CEA6-8360-4697-817E-6FCB3D96F9A0}"
 EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
@@ -49,6 +51,12 @@ Global
 		{7A8CCE76-D96C-4E38-A34A-F3F0DE5971D4}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{7A8CCE76-D96C-4E38-A34A-F3F0DE5971D4}.Release|Any CPU.Build.0 = Release|Any CPU
 		{7A8CCE76-D96C-4E38-A34A-F3F0DE5971D4}.Release|Any CPU.Deploy.0 = Release|Any CPU
+		{6F67CEA6-8360-4697-817E-6FCB3D96F9A0}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{6F67CEA6-8360-4697-817E-6FCB3D96F9A0}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{6F67CEA6-8360-4697-817E-6FCB3D96F9A0}.Debug|Any CPU.Deploy.0 = Debug|Any CPU
+		{6F67CEA6-8360-4697-817E-6FCB3D96F9A0}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{6F67CEA6-8360-4697-817E-6FCB3D96F9A0}.Release|Any CPU.Build.0 = Release|Any CPU
+		{6F67CEA6-8360-4697-817E-6FCB3D96F9A0}.Release|Any CPU.Deploy.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
