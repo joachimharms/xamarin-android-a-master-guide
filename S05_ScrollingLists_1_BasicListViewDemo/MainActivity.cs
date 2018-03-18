@@ -8,7 +8,7 @@ namespace S05_ScrollingLists_1_BasicListViewDemo
     [Activity(Label = "S05_ScrollingLists_1_BasicListViewDemo", MainLauncher = true)]
     public class MainActivity : Activity
     {
-        
+
         protected override void OnCreate(Bundle savedInstanceState)
         {
             base.OnCreate(savedInstanceState);
@@ -19,7 +19,7 @@ namespace S05_ScrollingLists_1_BasicListViewDemo
 
             // Erschaffe Daten für unsere ListView
             var data = new List<string>();
-            
+
             for (int i = 0; i < 100; i++)
             {
                 data.Add(string.Format($"Item number: {i.ToString()}"));
