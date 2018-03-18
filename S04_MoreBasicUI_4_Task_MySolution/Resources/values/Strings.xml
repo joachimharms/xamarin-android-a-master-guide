@@ -1,4 +1,14 @@
 <?xml version="1.0" encoding="utf-8"?>
 <resources>
   <string name="app_name">S04_MoreBasicUI_4_Task_MySolution</string>
+  <string-array name="GermanFood">
+    <item>Currywurst</item>
+    <item>Kartoffelbrei</item>
+    <item>Sauerkraut</item>
+  </string-array>
+  <string-array name="FrenchFood">
+    <item>Froschschenkel</item>
+    <item>Wein</item>
+    <item>Schnecken</item>
+  </string-array>
 </resources>
