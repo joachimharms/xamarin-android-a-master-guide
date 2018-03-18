@@ -1,4 +1,14 @@
 <?xml version="1.0" encoding="utf-8"?>
 <resources>
   <string name="app_name">S04_MoreBasicsUI_5_Task_OfficialSolution</string>
+  <string-array name="italian">
+    <item>Pizza</item>
+    <item>Pasta</item>
+    <item>Salami</item>
+  </string-array>
+  <string-array name="french">
+    <item>Frogs Legs</item>
+    <item>Wine</item>
+    <item>Cheese</item>
+  </string-array>
 </resources>
