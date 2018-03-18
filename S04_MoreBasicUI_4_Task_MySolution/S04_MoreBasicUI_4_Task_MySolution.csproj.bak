@@ -5,19 +5,19 @@
     <Platform Condition=" '$(Platform)' == '' ">AnyCPU</Platform>
     <ProductVersion>8.0.30703</ProductVersion>
     <SchemaVersion>2.0</SchemaVersion>
-    <ProjectGuid>{EFD62D11-C047-4A8F-8226-D89C4F68756A}</ProjectGuid>
+    <ProjectGuid>{3546780B-0468-44A9-9706-6E3CC317159A}</ProjectGuid>
     <ProjectTypeGuids>{EFBA0AD7-5A72-4C68-AF49-83D382785DCF};{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}</ProjectTypeGuids>
     <OutputType>Library</OutputType>
     <AppDesignerFolder>Properties</AppDesignerFolder>
-    <RootNamespace>S03_LayoutsAndBasicUI_3TextViews</RootNamespace>
-    <AssemblyName>S03_LayoutsAndBasicUI_3TextViews</AssemblyName>
+    <RootNamespace>S04_MoreBasicUI_4_Task_MySolution</RootNamespace>
+    <AssemblyName>S04_MoreBasicUI_4_Task_MySolution</AssemblyName>
     <FileAlignment>512</FileAlignment>
     <AndroidApplication>True</AndroidApplication>
     <AndroidResgenFile>Resources\Resource.Designer.cs</AndroidResgenFile>
     <AndroidResgenClass>Resource</AndroidResgenClass>
     <GenerateSerializationAssemblies>Off</GenerateSerializationAssemblies>
     <AndroidUseLatestPlatformSdk>True</AndroidUseLatestPlatformSdk>
-    <TargetFrameworkVersion>v8.0</TargetFrameworkVersion>
+    <TargetFrameworkVersion>v7.1</TargetFrameworkVersion>
     <AndroidManifest>Properties\AndroidManifest.xml</AndroidManifest>
     <MonoAndroidResourcePrefix>Resources</MonoAndroidResourcePrefix>
     <MonoAndroidAssetsPrefix>Assets</MonoAndroidAssetsPrefix>

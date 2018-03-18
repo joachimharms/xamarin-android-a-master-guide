@@ -1,7 +1,7 @@
 ﻿
 Microsoft Visual Studio Solution File, Format Version 12.00
 # Visual Studio 15
-VisualStudioVersion = 15.0.27130.2026
+VisualStudioVersion = 15.0.27130.2027
 MinimumVisualStudioVersion = 10.0.40219.1
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "S02_FirstApp", "xamarin-android-a-master-guide\S02_FirstApp.csproj", "{58958B40-CF32-46D1-AA8C-2DE8F37EFDBD}"
 EndProject
@@ -26,6 +26,8 @@ EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "S04_MoreBasicUI_5_Task_OfficialSolution", "S04_MoreBasicsUI_5_Task_OfficialSolution\S04_MoreBasicUI_5_Task_OfficialSolution.csproj", "{EBC055DF-EA3B-4006-B0B2-C2C326868557}"
 EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "S05_ScrollingLists_1_BasicListViewDemo", "S05_ScrollingLists_1_BasicListViewDemo\S05_ScrollingLists_1_BasicListViewDemo.csproj", "{3FE86890-A116-4CAA-96B5-91C86D1D9F17}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "S05_ScrollingLists_2_HandlingListViewClicks", "S05_ScrollingLists_2_HandlingListViewClicks\S05_ScrollingLists_2_HandlingListViewClicks.csproj", "{131DA058-A7BA-42BC-8B21-7ABCA0533993}"
 EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
@@ -105,6 +107,12 @@ Global
 		{3FE86890-A116-4CAA-96B5-91C86D1D9F17}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{3FE86890-A116-4CAA-96B5-91C86D1D9F17}.Release|Any CPU.Build.0 = Release|Any CPU
 		{3FE86890-A116-4CAA-96B5-91C86D1D9F17}.Release|Any CPU.Deploy.0 = Release|Any CPU
+		{131DA058-A7BA-42BC-8B21-7ABCA0533993}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{131DA058-A7BA-42BC-8B21-7ABCA0533993}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{131DA058-A7BA-42BC-8B21-7ABCA0533993}.Debug|Any CPU.Deploy.0 = Debug|Any CPU
+		{131DA058-A7BA-42BC-8B21-7ABCA0533993}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{131DA058-A7BA-42BC-8B21-7ABCA0533993}.Release|Any CPU.Build.0 = Release|Any CPU
+		{131DA058-A7BA-42BC-8B21-7ABCA0533993}.Release|Any CPU.Deploy.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE

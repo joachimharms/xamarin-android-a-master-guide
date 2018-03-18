@@ -5,12 +5,12 @@
     <Platform Condition=" '$(Platform)' == '' ">AnyCPU</Platform>
     <ProductVersion>8.0.30703</ProductVersion>
     <SchemaVersion>2.0</SchemaVersion>
-    <ProjectGuid>{EFD62D11-C047-4A8F-8226-D89C4F68756A}</ProjectGuid>
+    <ProjectGuid>{131DA058-A7BA-42BC-8B21-7ABCA0533993}</ProjectGuid>
     <ProjectTypeGuids>{EFBA0AD7-5A72-4C68-AF49-83D382785DCF};{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}</ProjectTypeGuids>
     <OutputType>Library</OutputType>
     <AppDesignerFolder>Properties</AppDesignerFolder>
-    <RootNamespace>S03_LayoutsAndBasicUI_3TextViews</RootNamespace>
-    <AssemblyName>S03_LayoutsAndBasicUI_3TextViews</AssemblyName>
+    <RootNamespace>S05_ScrollingLists_2_HandlingListViewClicks</RootNamespace>
+    <AssemblyName>S05_ScrollingLists_2_HandlingListViewClicks</AssemblyName>
     <FileAlignment>512</FileAlignment>
     <AndroidApplication>True</AndroidApplication>
     <AndroidResgenFile>Resources\Resource.Designer.cs</AndroidResgenFile>
