@@ -25,6 +25,8 @@ Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "S04_MoreBasicUI_4_Task_MySo
 EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "S04_MoreBasicUI_5_Task_OfficialSolution", "S04_MoreBasicsUI_5_Task_OfficialSolution\S04_MoreBasicUI_5_Task_OfficialSolution.csproj", "{EBC055DF-EA3B-4006-B0B2-C2C326868557}"
 EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "S05_ScrollingLists_1_BasicListViewDemo", "S05_ScrollingLists_1_BasicListViewDemo\S05_ScrollingLists_1_BasicListViewDemo.csproj", "{3FE86890-A116-4CAA-96B5-91C86D1D9F17}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|Any CPU = Debug|Any CPU
@@ -97,6 +99,12 @@ Global
 		{EBC055DF-EA3B-4006-B0B2-C2C326868557}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{EBC055DF-EA3B-4006-B0B2-C2C326868557}.Release|Any CPU.Build.0 = Release|Any CPU
 		{EBC055DF-EA3B-4006-B0B2-C2C326868557}.Release|Any CPU.Deploy.0 = Release|Any CPU
+		{3FE86890-A116-4CAA-96B5-91C86D1D9F17}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{3FE86890-A116-4CAA-96B5-91C86D1D9F17}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{3FE86890-A116-4CAA-96B5-91C86D1D9F17}.Debug|Any CPU.Deploy.0 = Debug|Any CPU
+		{3FE86890-A116-4CAA-96B5-91C86D1D9F17}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{3FE86890-A116-4CAA-96B5-91C86D1D9F17}.Release|Any CPU.Build.0 = Release|Any CPU
+		{3FE86890-A116-4CAA-96B5-91C86D1D9F17}.Release|Any CPU.Deploy.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
