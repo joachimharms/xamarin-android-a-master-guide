@@ -21,6 +21,8 @@ Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "S04_MoreBasicUI_2_ToggleBut
 EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "S04_MoreBasicUI_3_Spinners", "S04_MoreBasicUI_3_Spinners\S04_MoreBasicUI_3_Spinners.csproj", "{66E71836-C597-4BF6-9FB7-1FF475BAC212}"
 EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "S04_MoreBasicUI_4_Task_MySolution", "S04_MoreBasicUI_4_Task_MySolution\S04_MoreBasicUI_4_Task_MySolution.csproj", "{3546780B-0468-44A9-9706-6E3CC317159A}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|Any CPU = Debug|Any CPU
@@ -81,6 +83,12 @@ Global
 		{66E71836-C597-4BF6-9FB7-1FF475BAC212}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{66E71836-C597-4BF6-9FB7-1FF475BAC212}.Release|Any CPU.Build.0 = Release|Any CPU
 		{66E71836-C597-4BF6-9FB7-1FF475BAC212}.Release|Any CPU.Deploy.0 = Release|Any CPU
+		{3546780B-0468-44A9-9706-6E3CC317159A}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{3546780B-0468-44A9-9706-6E3CC317159A}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{3546780B-0468-44A9-9706-6E3CC317159A}.Debug|Any CPU.Deploy.0 = Debug|Any CPU
+		{3546780B-0468-44A9-9706-6E3CC317159A}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{3546780B-0468-44A9-9706-6E3CC317159A}.Release|Any CPU.Build.0 = Release|Any CPU
+		{3546780B-0468-44A9-9706-6E3CC317159A}.Release|Any CPU.Deploy.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
