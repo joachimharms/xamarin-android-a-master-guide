@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+  <string name="app_name">S04_MoreBasicUI_3_Spinners</string>
+  <string-array name="planets_array">
+    <item>Mercury</item>
+    <item>Earth</item>
+    <item>Uranus</item>
+    <item>Saturn</item>
+    <item>Jupiter</item>
+    <item>Mars</item>
+    <item>Neptune</item>
+    <item>Venus</item>
+  </string-array>
+</resources>
