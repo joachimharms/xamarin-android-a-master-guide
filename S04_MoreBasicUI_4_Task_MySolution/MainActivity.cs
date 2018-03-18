@@ -26,8 +26,7 @@ namespace S04_MoreBasicUI_4_Task_MySolution
             adapterGermanFood.SetDropDownViewResource(Android.Resource.Layout.SimpleSpinnerDropDownItem);
             adapterFrenchFood.SetDropDownViewResource(Android.Resource.Layout.SimpleSpinnerDropDownItem);
 
-            
-            
+            spinner.Adapter = adapterGermanFood;
 
             toggleButton.CheckedChange += delegate
             {
@@ -54,11 +53,6 @@ namespace S04_MoreBasicUI_4_Task_MySolution
                 spinner.Adapter = adapterFrenchFood;
             };
 
-
-            spinner.ItemSelected += delegate
-            {
-                
-            };
         }
     }
 }

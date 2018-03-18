@@ -6,7 +6,8 @@
     <ToggleButton
         android:layout_width="match_parent"
         android:layout_height="wrap_content"
-        android:id="@+id/toggleButton1" />
+        android:id="@+id/toggleButton1"
+        android:checked="true" />
     <RadioGroup
         android:minWidth="25px"
         android:minHeight="25px"
