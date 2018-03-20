@@ -7,6 +7,7 @@ using Android.App;
 using Android.Content;
 using Android.OS;
 using Android.Runtime;
+using Android.Util;
 using Android.Views;
 using Android.Widget;
 
@@ -27,8 +28,31 @@ namespace S07_Activities_3_ActivityLifecycles
 
             buttonShare.Click += delegate
             {
-                Toast.MakeText(this, myString, ToastLength.Long).Show();
+                Log.Debug("DEBUG", "Message: " + myString);
             };
+        }
+
+        protected override void OnPause()
+        {
+            base.OnPause();
+            Log.Debug("DEBUG", "PAUSE");
+        }
+
+        protected override void OnDestroy()
+        {
+            base.OnDestroy();
+            Log.Debug("DEBUG", "DESTROY");
+        }
+
+        protected override void OnResume()
+        {
+            base.OnResume();
+            Log.Debug("DEBUG", "RESUMED");
+        }
+
+        public override void OnBackPressed()
+        {
+            base.OnBackPressed();
         }
     }
 }
