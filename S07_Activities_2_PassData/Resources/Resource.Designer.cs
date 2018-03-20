@@ -9,9 +9,9 @@
 // </auto-generated>
 //------------------------------------------------------------------------------
 
-[assembly: global::Android.Runtime.ResourceDesignerAttribute("S07_Activities_2_PassDataBetweenActivities.Resource", IsApplication=true)]
+[assembly: global::Android.Runtime.ResourceDesignerAttribute("S07_Activities_2_PassData.Resource", IsApplication=true)]
 
-namespace S07_Activities_2_PassDataBetweenActivities
+namespace S07_Activities_2_PassData
 {
 	
 	
@@ -45,10 +45,10 @@ namespace S07_Activities_2_PassDataBetweenActivities
 		{
 			
 			// aapt resource value: 0x7f040000
-			public const int buttonNavigateShare = 2130968576;
+			public const int buttonNavigateToShare = 2130968576;
 			
 			// aapt resource value: 0x7f040002
-			public const int buttonSharing = 2130968578;
+			public const int buttonShare = 2130968578;
 			
 			// aapt resource value: 0x7f040001
 			public const int ratingBar1 = 2130968577;

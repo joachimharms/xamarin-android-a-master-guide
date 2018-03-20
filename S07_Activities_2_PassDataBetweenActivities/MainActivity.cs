@@ -1,6 +1,7 @@
 ﻿using Android.App;
 using Android.Widget;
 using Android.OS;
+using Android.Content;
 
 namespace S07_Activities_2_PassDataBetweenActivities
 {
@@ -13,7 +14,15 @@ namespace S07_Activities_2_PassDataBetweenActivities
 
             // Set our view from the "main" layout resource
             SetContentView(Resource.Layout.Main);
+
+            //var buttonNavigateShare = FindViewById<Button>(Resource.Id.buttonNavigateShare);
+
+            //buttonNavigateShare.Click += delegate
+            //{
+            //    var intent = new Intent(this, typeof(ShareActivity));
+
+            //    StartActivity(intent);
+            //};
         }
     }
 }
-
