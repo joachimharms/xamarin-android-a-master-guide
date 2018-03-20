@@ -3,9 +3,9 @@ using Android.Widget;
 using Android.OS;
 using Android.Content;
 
-namespace S07_Activities_2_PassData
+namespace S07_Activities_3_ActivityLifecycles
 {
-    [Activity(Label = "S07_Activities_2_PassData", MainLauncher = true)]
+    [Activity(Label = "S07_Activities_3_ActivityLifecycles", MainLauncher = true)]
     public class MainActivity : Activity
     {
         protected override void OnCreate(Bundle savedInstanceState)
@@ -15,12 +15,12 @@ namespace S07_Activities_2_PassData
             // Set our view from the "main" layout resource
             SetContentView(Resource.Layout.Main);
 
-            Button buttonNavigateToSharing = FindViewById<Button>(Resource.Id.buttonNavigateToShare);
+            var buttonNavigateSharing = FindViewById<Button>(Resource.Id.buttonNavigateSharing);
 
-            buttonNavigateToSharing.Click += delegate
+            buttonNavigateSharing.Click += delegate
             {
-                var intent = new Intent(this, typeof(ShareActivity));
-                intent.PutExtra("myString", "passed message");
+                var intent = new Intent(this, typeof(Sharing));
+                intent.PutExtra("myData", "Hallo Welt");
                 StartActivity(intent);
             };
         }
