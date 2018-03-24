@@ -1,7 +1,7 @@
 ﻿
 Microsoft Visual Studio Solution File, Format Version 12.00
 # Visual Studio 15
-VisualStudioVersion = 15.0.27130.2026
+VisualStudioVersion = 15.0.27130.2027
 MinimumVisualStudioVersion = 10.0.40219.1
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "S02_FirstApp", "xamarin-android-a-master-guide\S02_FirstApp.csproj", "{58958B40-CF32-46D1-AA8C-2DE8F37EFDBD}"
 EndProject
@@ -36,6 +36,8 @@ EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "S07_Activities_2_PassData", "S07_Activities_2_PassData\S07_Activities_2_PassData.csproj", "{C62D60C0-0C7D-4420-B131-253D51DA9AEF}"
 EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "S07_Activities_3_ActivityLifecycles", "S07_Activities_3_ActivityLifecycles\S07_Activities_3_ActivityLifecycles.csproj", "{64CE9433-E925-4715-96A2-11F3041097E1}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "S06_Resources_1_Images", "S06_Resources_1_Images\S06_Resources_1_Images.csproj", "{492B91E8-33F7-48A1-9E89-FAA23E5900CC}"
 EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
@@ -145,6 +147,12 @@ Global
 		{64CE9433-E925-4715-96A2-11F3041097E1}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{64CE9433-E925-4715-96A2-11F3041097E1}.Release|Any CPU.Build.0 = Release|Any CPU
 		{64CE9433-E925-4715-96A2-11F3041097E1}.Release|Any CPU.Deploy.0 = Release|Any CPU
+		{492B91E8-33F7-48A1-9E89-FAA23E5900CC}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{492B91E8-33F7-48A1-9E89-FAA23E5900CC}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{492B91E8-33F7-48A1-9E89-FAA23E5900CC}.Debug|Any CPU.Deploy.0 = Debug|Any CPU
+		{492B91E8-33F7-48A1-9E89-FAA23E5900CC}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{492B91E8-33F7-48A1-9E89-FAA23E5900CC}.Release|Any CPU.Build.0 = Release|Any CPU
+		{492B91E8-33F7-48A1-9E89-FAA23E5900CC}.Release|Any CPU.Deploy.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE

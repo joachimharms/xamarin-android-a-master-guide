@@ -5,15 +5,16 @@
     android:layout_height="match_parent"
     android:minWidth="25px"
     android:minHeight="25px">
-    <ImageView
-        android:src="@android:drawable/ic_menu_gallery"
+    <Button
+        android:id="@+id/button1"
         android:layout_width="match_parent"
         android:layout_height="wrap_content"
-        android:id="@+id/imageView1" />
-    <ListView
-        android:minWidth="25px"
-        android:minHeight="25px"
+        android:text="Push" />
+    <ImageView
+        android:src="@drawable/car01"
         android:layout_width="match_parent"
-        android:layout_height="match_parent"
-        android:id="@+id/listView1" />
+        android:layout_height="wrap_content"
+        android:id="@+id/imageViewCar"
+        android:scaleType="centerCrop"
+        android:adjustViewBounds="false" />
 </LinearLayout>

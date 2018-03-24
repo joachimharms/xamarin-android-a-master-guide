@@ -9,9 +9,9 @@
 // </auto-generated>
 //------------------------------------------------------------------------------
 
-[assembly: global::Android.Runtime.ResourceDesignerAttribute("S05_ScrollingLists_3_CustomAdapter.Resource", IsApplication=true)]
+[assembly: global::Android.Runtime.ResourceDesignerAttribute("S06_Resources_1_Images.Resource", IsApplication=true)]
 
-namespace S05_ScrollingLists_3_CustomAdapter
+namespace S06_Resources_1_Images
 {
 	
 	
@@ -41,14 +41,30 @@ namespace S05_ScrollingLists_3_CustomAdapter
 			}
 		}
 		
+		public partial class Drawable
+		{
+			
+			// aapt resource value: 0x7f020000
+			public const int car01 = 2130837504;
+			
+			static Drawable()
+			{
+				global::Android.Runtime.ResourceIdManager.UpdateIdValues();
+			}
+			
+			private Drawable()
+			{
+			}
+		}
+		
 		public partial class Id
 		{
 			
-			// aapt resource value: 0x7f040000
-			public const int imageView1 = 2130968576;
+			// aapt resource value: 0x7f050000
+			public const int button1 = 2131034112;
 			
-			// aapt resource value: 0x7f040001
-			public const int listView1 = 2130968577;
+			// aapt resource value: 0x7f050001
+			public const int imageViewCar = 2131034113;
 			
 			static Id()
 			{
@@ -63,8 +79,8 @@ namespace S05_ScrollingLists_3_CustomAdapter
 		public partial class Layout
 		{
 			
-			// aapt resource value: 0x7f020000
-			public const int Main = 2130837504;
+			// aapt resource value: 0x7f030000
+			public const int Main = 2130903040;
 			
 			static Layout()
 			{
@@ -79,8 +95,8 @@ namespace S05_ScrollingLists_3_CustomAdapter
 		public partial class String
 		{
 			
-			// aapt resource value: 0x7f030000
-			public const int app_name = 2130903040;
+			// aapt resource value: 0x7f040000
+			public const int app_name = 2130968576;
 			
 			static String()
 			{
