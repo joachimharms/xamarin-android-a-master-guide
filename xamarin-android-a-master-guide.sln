@@ -39,6 +39,8 @@ Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "S07_Activities_3_ActivityLi
 EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "S06_Resources_1_Images", "S06_Resources_1_Images\S06_Resources_1_Images.csproj", "{492B91E8-33F7-48A1-9E89-FAA23E5900CC}"
 EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "S06_Resources_2_Translation", "S06_Resources_2_Translation\S06_Resources_2_Translation.csproj", "{CCC9D0F2-EF05-4123-B3C6-34004ED6A392}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|Any CPU = Debug|Any CPU
@@ -153,6 +155,12 @@ Global
 		{492B91E8-33F7-48A1-9E89-FAA23E5900CC}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{492B91E8-33F7-48A1-9E89-FAA23E5900CC}.Release|Any CPU.Build.0 = Release|Any CPU
 		{492B91E8-33F7-48A1-9E89-FAA23E5900CC}.Release|Any CPU.Deploy.0 = Release|Any CPU
+		{CCC9D0F2-EF05-4123-B3C6-34004ED6A392}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{CCC9D0F2-EF05-4123-B3C6-34004ED6A392}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{CCC9D0F2-EF05-4123-B3C6-34004ED6A392}.Debug|Any CPU.Deploy.0 = Debug|Any CPU
+		{CCC9D0F2-EF05-4123-B3C6-34004ED6A392}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{CCC9D0F2-EF05-4123-B3C6-34004ED6A392}.Release|Any CPU.Build.0 = Release|Any CPU
+		{CCC9D0F2-EF05-4123-B3C6-34004ED6A392}.Release|Any CPU.Deploy.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
