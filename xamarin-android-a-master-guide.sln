@@ -41,6 +41,8 @@ Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "S06_Resources_1_Images", "S
 EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "S06_Resources_2_Translation", "S06_Resources_2_Translation\S06_Resources_2_Translation.csproj", "{CCC9D0F2-EF05-4123-B3C6-34004ED6A392}"
 EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "S06_Resources_3_Assets", "S06_Resources_3_Assets\S06_Resources_3_Assets.csproj", "{CF669C86-F4EE-4636-9811-A2C5416B6865}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|Any CPU = Debug|Any CPU
@@ -161,6 +163,12 @@ Global
 		{CCC9D0F2-EF05-4123-B3C6-34004ED6A392}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{CCC9D0F2-EF05-4123-B3C6-34004ED6A392}.Release|Any CPU.Build.0 = Release|Any CPU
 		{CCC9D0F2-EF05-4123-B3C6-34004ED6A392}.Release|Any CPU.Deploy.0 = Release|Any CPU
+		{CF669C86-F4EE-4636-9811-A2C5416B6865}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{CF669C86-F4EE-4636-9811-A2C5416B6865}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{CF669C86-F4EE-4636-9811-A2C5416B6865}.Debug|Any CPU.Deploy.0 = Debug|Any CPU
+		{CF669C86-F4EE-4636-9811-A2C5416B6865}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{CF669C86-F4EE-4636-9811-A2C5416B6865}.Release|Any CPU.Build.0 = Release|Any CPU
+		{CF669C86-F4EE-4636-9811-A2C5416B6865}.Release|Any CPU.Deploy.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
