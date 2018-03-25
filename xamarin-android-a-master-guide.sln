@@ -53,6 +53,8 @@ Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "S08_GraphicsAndAnimations_3
 EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "S08_GraphicsAndAnimations_4_PropertyAnimations", "S08_GraphicsAndAnimations_4_PropertyAnimations\S08_GraphicsAndAnimations_4_PropertyAnimations.csproj", "{CAFCC2A7-3C3D-4BD2-B154-B82D528B554E}"
 EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "S08_GraphicsAndAnimations_5_PropertyAnimation2", "S08_GraphicsAndAnimations_5_PropertyAnimation2\S08_GraphicsAndAnimations_5_PropertyAnimation2.csproj", "{B08A5599-5FB9-4876-AF1E-FD804ED95715}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|Any CPU = Debug|Any CPU
@@ -209,6 +211,12 @@ Global
 		{CAFCC2A7-3C3D-4BD2-B154-B82D528B554E}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{CAFCC2A7-3C3D-4BD2-B154-B82D528B554E}.Release|Any CPU.Build.0 = Release|Any CPU
 		{CAFCC2A7-3C3D-4BD2-B154-B82D528B554E}.Release|Any CPU.Deploy.0 = Release|Any CPU
+		{B08A5599-5FB9-4876-AF1E-FD804ED95715}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{B08A5599-5FB9-4876-AF1E-FD804ED95715}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{B08A5599-5FB9-4876-AF1E-FD804ED95715}.Debug|Any CPU.Deploy.0 = Debug|Any CPU
+		{B08A5599-5FB9-4876-AF1E-FD804ED95715}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{B08A5599-5FB9-4876-AF1E-FD804ED95715}.Release|Any CPU.Build.0 = Release|Any CPU
+		{B08A5599-5FB9-4876-AF1E-FD804ED95715}.Release|Any CPU.Deploy.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
